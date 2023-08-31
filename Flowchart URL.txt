@@ -1,1 +1,1 @@
-httpscloud.smartdraw.comeditor.aspxcredID=-52838804&depoId=49082221&flags=128
+https://cloud.smartdraw.com/editor.aspx?credID=-52838804&depoId=49082221&flags=128
